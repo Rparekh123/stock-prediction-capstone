@@ -1,1 +1,1 @@
-# stock-prediction-capstone
+# Stock Price Prediction
