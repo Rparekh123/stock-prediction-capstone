@@ -6,7 +6,7 @@ The stock market is a great way to grow and invest your money. As time went by r
 
 ## Breakdown of the top 10 Stocks
 ![newplot](https://user-images.githubusercontent.com/52425750/139149498-37716f58-0e51-4a01-ab89-392a9a4bde20.png)
-In the plot above we see the breakdown of specific sectors in QQQ. 50% of the stocks are in the sector of information technology. Due to this high weightage of the tech sector we will be focusing on the stocks within this sector.
+In the plot above we see the breakdown of specific sectors in QQQ. 50% of the stocks are in the sector of information technology. Due to this high weightage of the technology sector we will be focusing on the stocks within this sector.
 ![newplot (1)](https://user-images.githubusercontent.com/52425750/139149738-dea86252-a0a9-40e4-9f1a-d5ee1ab7819e.png)
 In this pie chart it breaks down the top 10 highest weighted stocks within the QQQ. All 10 of these companies are highly regarded in the technology industry. That is why these stocks were chosen for the models.
 
