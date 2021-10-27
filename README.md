@@ -16,4 +16,8 @@ Historical data was collected from  the Yahoo finance library. The data starts f
 
 ## Modeling and Forecasting
 For the models that were compared, there were 3 main models. The ARIMA, Prophet, and a SARIMAX model.
-Each provided a forecast on a testing set to compare which model would provide the lowest error score. The lowest error score meant higher confidence in the models prediction for the next day.
+Each provided a forecast on a testing set to compare which model would provide the lowest error score. The lowest error score meant higher confidence in the models prediction for the next day. The closing prices were the ones being predicted on. If an investor can gauge the closing price of a stock for the next day it allows them to set up a trade whether or not to buy or sell.
+
+## Further Improvements
+The next step would be to build a more complex model such as a reinforcement model in order to create a automated system to automatically trade these stocks.
+
